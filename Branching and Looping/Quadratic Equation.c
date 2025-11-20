@@ -1,3 +1,5 @@
+//Shivansh Tiwari 25070521065
+
 #include <math.h>
 #include <stdio.h>
 

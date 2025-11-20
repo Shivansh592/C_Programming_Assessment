@@ -1,3 +1,6 @@
+//Shivansh Tiwari 25070521065
+
+
 #include <stdio.h>
 int factorial(int n) {
   if (n == 1 || n == 0) {

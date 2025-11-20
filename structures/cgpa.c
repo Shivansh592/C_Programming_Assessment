@@ -1,3 +1,6 @@
+//Shivansh Tiwari 25070521065
+
+
 #include <stdio.h>
 
 // Define a simple structure for Student

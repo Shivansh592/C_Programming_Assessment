@@ -1,3 +1,5 @@
+//Shivansh Tiwari 25070521065
+
 #include<stdio.h>
 
 void area_peri(float, float*, float*);
